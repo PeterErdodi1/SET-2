@@ -1,0 +1,13 @@
+D:\Probleme\SET 2\Problema12\Problema12\bin\Debug\netcoreapp3.1\Problema12.exe
+D:\Probleme\SET 2\Problema12\Problema12\bin\Debug\netcoreapp3.1\Problema12.deps.json
+D:\Probleme\SET 2\Problema12\Problema12\bin\Debug\netcoreapp3.1\Problema12.runtimeconfig.json
+D:\Probleme\SET 2\Problema12\Problema12\bin\Debug\netcoreapp3.1\Problema12.runtimeconfig.dev.json
+D:\Probleme\SET 2\Problema12\Problema12\bin\Debug\netcoreapp3.1\Problema12.dll
+D:\Probleme\SET 2\Problema12\Problema12\bin\Debug\netcoreapp3.1\Problema12.pdb
+D:\Probleme\SET 2\Problema12\Problema12\obj\Debug\netcoreapp3.1\Problema12.GeneratedMSBuildEditorConfig.editorconfig
+D:\Probleme\SET 2\Problema12\Problema12\obj\Debug\netcoreapp3.1\Problema12.AssemblyInfoInputs.cache
+D:\Probleme\SET 2\Problema12\Problema12\obj\Debug\netcoreapp3.1\Problema12.AssemblyInfo.cs
+D:\Probleme\SET 2\Problema12\Problema12\obj\Debug\netcoreapp3.1\Problema12.csproj.CoreCompileInputs.cache
+D:\Probleme\SET 2\Problema12\Problema12\obj\Debug\netcoreapp3.1\Problema12.dll
+D:\Probleme\SET 2\Problema12\Problema12\obj\Debug\netcoreapp3.1\Problema12.pdb
+D:\Probleme\SET 2\Problema12\Problema12\obj\Debug\netcoreapp3.1\Problema12.genruntimeconfig.cache

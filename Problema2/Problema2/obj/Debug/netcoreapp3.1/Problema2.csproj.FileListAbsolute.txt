@@ -1,0 +1,14 @@
+D:\Probleme\SET 2\Problema2\Problema2\obj\Debug\netcoreapp3.1\Problema2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Probleme\SET 2\Problema2\Problema2\obj\Debug\netcoreapp3.1\Problema2.AssemblyInfoInputs.cache
+D:\Probleme\SET 2\Problema2\Problema2\obj\Debug\netcoreapp3.1\Problema2.AssemblyInfo.cs
+D:\Probleme\SET 2\Problema2\Problema2\obj\Debug\netcoreapp3.1\Problema2.csproj.CoreCompileInputs.cache
+D:\Probleme\SET 2\Problema2\Problema2\bin\Debug\netcoreapp3.1\Problema2.exe
+D:\Probleme\SET 2\Problema2\Problema2\bin\Debug\netcoreapp3.1\Problema2.deps.json
+D:\Probleme\SET 2\Problema2\Problema2\bin\Debug\netcoreapp3.1\Problema2.runtimeconfig.json
+D:\Probleme\SET 2\Problema2\Problema2\bin\Debug\netcoreapp3.1\Problema2.runtimeconfig.dev.json
+D:\Probleme\SET 2\Problema2\Problema2\bin\Debug\netcoreapp3.1\Problema2.dll
+D:\Probleme\SET 2\Problema2\Problema2\bin\Debug\netcoreapp3.1\Problema2.pdb
+D:\Probleme\SET 2\Problema2\Problema2\obj\Debug\netcoreapp3.1\Problema2.dll
+D:\Probleme\SET 2\Problema2\Problema2\obj\Debug\netcoreapp3.1\Problema2.pdb
+D:\Probleme\SET 2\Problema2\Problema2\obj\Debug\netcoreapp3.1\Problema2.genruntimeconfig.cache
+D:\Probleme\SET 2\Problema2\Problema2\obj\Debug\netcoreapp3.1\Problema2.csproj.AssemblyReference.cache
